@@ -1,3 +1,5 @@
+// made with <3 by Denis Tauchman, Marin Šimon, Jan Sodomka, Jiří Šeps
+
 #include "lcd_threading.h"
 
 void init();
